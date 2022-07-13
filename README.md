@@ -8,7 +8,8 @@ Taxes for vehicles. Thanks to myScripts for helping me
 5. Add **start taxes** to your server.cfg
 
 # Credits
-Thanks to myScripts for helping me scripting this
+Thanks to Der-Elmoo for the ESX Script. ([esx-vehicletaxes-fivem](https://github.com/Der-Elmoo/esx-vehicletaxes-fivem))
+
 
 # ESX Legacy
 1. Go to **config.lua** then set **Config.FrameWork** to **'ESX-Legacy'** (Line 3 in config.lua)
@@ -16,6 +17,6 @@ Thanks to myScripts for helping me scripting this
 3. Go to the **fxmanifest.lua**:
 - remove_ the '--' before '@oxmysql/lib/MySQL.lua' (Line 18 in fxmanifest.lua)
 - Add the '--' before '@mysql-async/lib/MySQL.lua' (Line 19 in fxmanifest.lua)
-- ![Screenshot 2022-07-13 091349](https://user-images.githubusercontent.com/61068944/178673460-5c98a0e4-892c-49b6-b3f2-1f7c85211bec.png)
+![Screenshot 2022-07-13 091349](https://user-images.githubusercontent.com/61068944/178673460-5c98a0e4-892c-49b6-b3f2-1f7c85211bec.png)
 6.
 
