@@ -29,5 +29,9 @@ Translation = {
     ['fr'] = {
         ['title'] = 'Bureau des impôts',
         ['description'] = 'Vous avez payé~r~ %s $~s~ de taxes pour~y~ %s véhicule~s~.'
+    },
+    ['pt'] = {
+        ['title'] = 'Finanças',
+        ['description'] = 'Pagaste~r~ %s $~s~ de taxas por~y~ %s veículos~s~.'
     }
 }
