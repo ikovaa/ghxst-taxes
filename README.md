@@ -4,8 +4,8 @@ Taxes for vehicles. Thanks to **Der-Elmoo** for the ESX Script
 # Installation
 1. Download the script
 2. Drag and Drop it into your resources folder
-4. _You need to configurate it!!_
-5. Add **start taxes** to your server.cfg
+4. You need to configurate it!! (follow the instructions for your system.)
+5. Add **ensure ghxst-taxes** to your server.cfg
 
 # Credits
 Thanks to **Der-Elmoo** for the ESX Script. ([esx-vehicletaxes-fivem](https://github.com/Der-Elmoo/esx-vehicletaxes-fivem))
