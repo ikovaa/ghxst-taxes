@@ -10,6 +10,8 @@ Taxes for vehicles. Thanks to **Der-Elmoo** for the ESX Script
 # Credits
 Thanks to **Der-Elmoo** for the ESX Script. ([esx-vehicletaxes-fivem](https://github.com/Der-Elmoo/esx-vehicletaxes-fivem))
 
+# Support
+You can get support in our discord: ([Ghxst-Studios](https://discord.gg/knte6cydvM))
 
 # ESX Legacy
 1. Go to **config.lua**:
